@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81803093501",
+    "firebase_url": "https://chatapp-3b3af.firebaseio.com",
+    "project_id": "chatapp-3b3af",
+    "storage_bucket": "chatapp-3b3af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81803093501:android:9e89bcc37fd35ede",
+        "android_client_info": {
+          "package_name": "com.gamechanger.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81803093501-mi2u7p0sdjbgtir0phugj3oapd0hi6hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamechanger.chatapp",
+            "certificate_hash": "750e8b565d5f5f65cebfe804390cc2ecdd126249"
+          }
+        },
+        {
+          "client_id": "81803093501-msi0120opf3fq2n1793onom5ojvdipku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTS5f2xP6hcMgrY_xGWiybC3X38Q_TAnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81803093501-msi0120opf3fq2n1793onom5ojvdipku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
